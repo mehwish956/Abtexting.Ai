@@ -1,0 +1,151 @@
+@media (max-width: 902px) {
+  .nav-item {
+    margin-left: -36rem;
+    margin-top: 2rem;
+  }
+  .navbar-toggler {
+    width: 50px;
+    height: 50px;
+  }
+  .navbar-toggler:hover {
+    border-radius: red;
+  }
+  .float-card {
+    margin-top: -2rem;
+  }
+  .site-header {
+    padding-bottom: 43rem;
+  }
+  .ab-hero {
+    top: -0rem;
+    left: -83.5px;
+  }
+  .frame-2 {
+    left: 15rem;
+    top: 0rem;
+  }
+  .versus.case-study {
+    margin-bottom: 7rem;
+    font-size: 85px;
+  }
+  .floaticon {
+    transform: translateY(-7.75px) translateZ(0px);
+  }
+  .floaticon1 {
+    left: 33rem;
+    transform: translateY(-505.333px) translateZ(0px);
+  }
+  .floaticon2 {
+    left: 73rem;
+    transform: translateY(-496.4px) translateZ(0px);
+  }
+  .section-image {
+    margin-top: -70px;
+  }
+}
+@media (max-width: 767px) {
+  .ab-hero {
+    top: 52rem;
+    left: -175.5px;
+  }
+  .frame-2 {
+    left: 7rem;
+    top: 51rem;
+  }
+  .float-card {
+    margin-top: -7rem;
+    text-align: center;
+  }
+  .w-100 {
+    width: 40% !important;
+  }
+  .floaticon2 {
+    left: 59rem;
+    transform: translateY(-840.4px) translateZ(0px);
+  }
+  .ab-hero {
+    top: 58rem;
+    width: 732px;
+  }
+  .frame-2 {
+    top: 55rem;
+  }
+  .floaticon2 {
+    left: 39rem;
+  }
+  .b {
+    left: -49px;
+  }
+}
+@media (max-width: 375px) {
+  .ab-hero {
+    width: 0px;
+  }
+  .frame-2 {
+    left: 0.55rem;
+    justify-content: none;
+    width: 363px;
+    top: 66rem;
+  }
+  .input-group .form-control {
+    font-size: 20px;
+
+    padding: 1.75rem 1rem !important;
+  }
+  .input-group .btn.btn-lg {
+    font-size: 15px;
+
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+  }
+
+  .lead {
+    font-size: 18px;
+  }
+  .case-card.case-study {
+    width: 350px;
+  }
+  .section-image {
+    margin-bottom: 7rem;
+  }
+  .toyotaprius {
+    font-size: 19px;
+  }
+  .floaticon {
+    transform: translateY(38.25px) translateZ(0px);
+    left: -1rem;
+  }
+  .floaticon2 {
+    left: 18rem;
+    transform: translateY(-808.4px) translateZ(0px);
+  }
+  .tools > * {
+    margin-top: 3rem;
+  }
+  .pt-6 {
+    margin-bottom: -14rem;
+  }
+  .b {
+    left: -24rem;
+  }
+  .floaticon1 {
+    left: -26rem;
+  }
+  .section-description {
+    font-size: 19px;
+  }
+  .twitter {
+    font-size: 19px;
+    float: right;
+    margin-top: 5rem;
+  }
+  .jsx-2806465573 {
+    max-width: 346px;
+  }
+  .w-100 {
+    width: 100% !important;
+  }
+  .card {
+    padding: 1rem;
+  }
+}
